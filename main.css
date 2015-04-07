@@ -1,8 +1,0 @@
-.mycolums {
-    -webkit-columns: 2 300px;
-    -moz-columns: 2 300px;
-    columns: 4 300px;
-    -webkit-column-gap: 2em;
-    -moz-column-gap: 2em;
-    column-gap: 2em;
-}
