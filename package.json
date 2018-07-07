@@ -1,0 +1,19 @@
+{
+  "name": "maxtrenkle.github.io",
+  "version": "1.0.0",
+  "description": "My personal website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxTrenkle/maxtrenkle.github.io.git"
+  },
+  "author": "Max Trenkle <maxtrenkle@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxTrenkle/maxtrenkle.github.io/issues"
+  },
+  "homepage": "https://github.com/MaxTrenkle/maxtrenkle.github.io#readme"
+}
